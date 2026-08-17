@@ -1,0 +1,1 @@
+- Yaser Alshareef, I want to learn more about MLOps and DevOps
